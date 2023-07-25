@@ -15,7 +15,7 @@ This is a Tailwind CSS project that I am using to learn Tailwind CSS.
 | Name         | Version | Link                             |
 | ------------ | ------- | -------------------------------- |
 | Node.js      | 18.16.0 | [Link](https://nodejs.org/en/)   |
-| Tailwind CSS | 3.2.7   | [Link](https://tailwindcss.com/) |
+| Tailwind CSS | 3.3.3   | [Link](https://tailwindcss.com/) |
 
 ## Commands
 
